@@ -1,7 +1,7 @@
 # LJAMINE
 
 
-# MY STATS(I WILL KEEP TRYING):
+# MY STATS:
 
 
 [![](https://raw.githubusercontent.com/LJAMINE/Amine_Stats/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
